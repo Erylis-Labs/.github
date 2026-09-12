@@ -1,6 +1,5 @@
 name: Spike
 description: Investigation or prototype intended to inform a decision.
-title: ""
 type: Spike
 body:
   - type: markdown

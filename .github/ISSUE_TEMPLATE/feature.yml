@@ -1,6 +1,5 @@
 name: Feature request
 description: A request, idea, or new functionality.
-title: ""
 type: Feature
 body:
   - type: markdown
