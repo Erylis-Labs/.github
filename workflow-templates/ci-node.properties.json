@@ -1,0 +1,7 @@
+{
+  "name": "Node.js CI",
+  "description": "Install dependencies, lint, build and test a Node.js project (npm).",
+  "iconName": "octicon-node",
+  "categories": ["Node"],
+  "filePatterns": ["package.json$"]
+}
