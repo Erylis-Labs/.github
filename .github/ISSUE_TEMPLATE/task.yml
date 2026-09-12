@@ -2,11 +2,6 @@ name: Task
 description: A specific piece of work.
 type: Task
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Use this template for well-defined work that isn't a bug fix or a new feature request.
-
   - type: textarea
     id: description
     attributes:
@@ -24,7 +19,7 @@ body:
         - [ ] First acceptance criterion
         - [ ] Second acceptance criterion
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: context
